@@ -1,0 +1,12 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1c1c1c;
+}
+
+.coding-monster {
+    width: 100%;
+    max-width: 800px;   
+}
